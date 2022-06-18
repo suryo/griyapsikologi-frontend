@@ -4,7 +4,7 @@
     :subtitle="$t('common.login_subtitle')"
   >
     <div>
-      <div class="head">
+      <!-- <div class="head">
         <title-secondary :align="isMobile ? 'center' : 'left'">
           {{ $t('common.login') }}
         </title-secondary>
@@ -19,12 +19,12 @@
           </v-icon>
           {{ $t('common.login_create') }}
         </v-btn>
-      </div>
-      <social-auth />
+      </div> -->
+      <!-- <social-auth /> -->
       <div class="separator">
-        <p>
+        <!-- <p>
           {{ $t('common.login_or') }}
-        </p>
+        </p> -->
       </div>
       <v-form
         ref="form"

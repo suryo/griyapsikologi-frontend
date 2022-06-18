@@ -149,7 +149,7 @@
 </style>
 
 <script>
-import logo from '~/static/images/saas-logo.svg'
+import logo from '~/static/images/griya.png'
 import brand from '~/static/text/brand'
 import link from '~/static/text/link'
 import Hidden from '../Hidden'

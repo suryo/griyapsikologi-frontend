@@ -5,7 +5,7 @@ const brand = {
     prefix: 'veluxi',
     footerText: 'AtmosCrate 2022',
     logoText: 'AtmosCrate Software',
-    projectName: 'Software',
+    projectName: 'Griya Psikologi',
     url: '',
     img: '/static/images/griya.png',
     notifMsg:

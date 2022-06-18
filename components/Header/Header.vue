@@ -73,7 +73,7 @@
                 active-class="active"
                 tag="ul"
               >
-                <li
+                <!-- <li
                   v-for="(item, index) in menuList"
                   :key="index"
                 >
@@ -93,15 +93,15 @@
                   >
                     {{ $t('saasLanding.header_'+item.name) }}
                   </v-btn>
-                </li>
-                <li>
+                </li> -->
+                <!-- <li>
                   <v-btn
                     :href="link.saas.contact"
                     text
                   >
                     {{ $t('saasLanding.header_contact') }}
                   </v-btn>
-                </li>
+                </li> -->
               </scrollactive>
             </div>
           </nav>
@@ -117,7 +117,7 @@
                 {{ $t('saasLanding.header_register') }}
               </v-btn>
             </hidden>
-            <setting-menu :invert="invert" />
+            <!-- <setting-menu :invert="invert" /> -->
           </nav>
         </div>
       </v-container>

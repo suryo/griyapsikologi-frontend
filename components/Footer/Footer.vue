@@ -31,7 +31,7 @@
             :dark="!invert"
             class="accordion-root"
           >
-            <v-expansion-panel
+            <!-- <v-expansion-panel
               v-for="(footer, index) in footers"
               :key="index"
               class="accordion-content"
@@ -53,9 +53,9 @@
                   </li>
                 </ul>
               </v-expansion-panel-content>
-            </v-expansion-panel>
+            </v-expansion-panel> -->
           </v-expansion-panels>
-          <v-row justify="space-around" v-if="isDesktop">
+          <!-- <v-row justify="space-around" v-if="isDesktop">
             <v-col
               v-for="(footer, index) in footers"
               :key="index"
@@ -77,7 +77,7 @@
                 </li>
               </ul>
             </v-col>
-          </v-row>
+          </v-row> -->
         </v-col>
         <v-col
           md="3"
@@ -139,7 +139,7 @@
 </style>
 
 <script>
-import logo from '~/static/images/saas-logo.svg'
+import logo from '~/static/images/griya.png'
 import brand from '~/static/text/brand'
 
 export default {

@@ -3,7 +3,7 @@
     <hidden point="mdUp">
       <div class="logo logo-header">
         <a :href="routerLink.saas.home">
-          <img src="/images/saas-logo.svg" alt="logo" />
+          <img src="/images/griya.png" alt="logo" />
           <p class="use-text-subtitle2">
             {{ brand.saas.projectName }}
           </p>
@@ -34,7 +34,7 @@
               <hidden point="smDown">
                 <div class="greeting">
                   <div class="logo">
-                    <img src="/images/saas-logo.svg" alt="logo" />
+                    <img src="/images/griya.png" alt="logo" />
                     <p class="use-text-subtitle2">
                       {{ brand.saas.projectName }}
                     </p>

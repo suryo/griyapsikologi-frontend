@@ -9,12 +9,12 @@
       </svg>
     </div>
     <div class="action">
-      <h4 class="use-text-title2">
+      <!-- <h4 class="use-text-title2">
         {{ $t('saasLanding.footer_waiting') }}
-      </h4>
-      <v-btn color="secondary" large>
+      </h4> -->
+      <!-- <v-btn color="secondary" large>
         {{ $t('saasLanding.getstarted') }}
-      </v-btn>
+      </v-btn> -->
     </div>
     <footer-main />
   </div>

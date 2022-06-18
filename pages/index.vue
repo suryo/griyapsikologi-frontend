@@ -15,7 +15,7 @@
         <section id="feature" :class="isMobile ? 'space-top-short' : 'space-top'">
           <feature />
         </section>
-        <section id="testimonials" class="space-bottom-testi">
+        <!-- <section id="testimonials" class="space-bottom-testi">
           <testimonials />
         </section>
         <section id="pricing" class="space-top">
@@ -23,19 +23,20 @@
         </section>
         <section id="faq" class="space-top-short">
           <faq />
-        </section>
-        <section class="space-top-short space-bottom-short">
+        </section> -->
+        <!-- <section class="space-top-short space-bottom-short">
           <news-event />
-        </section>
+        </section> -->
       </div>
       <section id="footer">
         <footer-with-deco />
+        <!-- <footer /> -->
       </section>
       <hidden point="mdDown">
         <page-nav />
       </hidden>
       <hidden point="mdDown">
-        <notification />
+        <!-- <notification /> -->
       </hidden>
     </div>
   </div>
@@ -103,6 +104,7 @@ import PricingPlan from '~/components/PricingPlan'
 import Faq from '~/components/Faq'
 import NewsEvent from '~/components/NewsEvent'
 import FooterWithDeco from '~/components/Footer/FooterWithDeco'
+import Footer from '~/components/Footer/Footer'
 import Notification from '~/components/Notification'
 import brand from '~/static/text/brand'
 
@@ -118,6 +120,7 @@ export default {
     Faq,
     NewsEvent,
     FooterWithDeco,
+    Footer,
     PageNav,
     Hidden,
     Notification

@@ -45,7 +45,7 @@ module.exports = {
     ],
     link: [
       // Favicon
-      { rel: 'shortcut icon', href: '/favicons/favicon.ico' },
+      { rel: 'shortcut icon', href: '/favicons/griya.ico' },
       { rel: 'apple-touch-icon', sizes: '57x57', href: '/favicons/apple-icon-57x57.png' },
       { rel: 'apple-touch-icon', sizes: '60x60', href: '/favicons/apple-icon-60x60.png' },
       { rel: 'apple-touch-icon', sizes: '72x72', href: '/favicons/apple-icon-72x72.png' },
@@ -56,9 +56,9 @@ module.exports = {
       { rel: 'apple-touch-icon', sizes: '152x152', href: '/favicons/apple-icon-152x152.png' },
       { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicons/apple-icon-180x180.png' },
       { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/favicons/android-icon-192x192.png' },
-      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicons/favicon-32x32.png' },
-      { rel: 'icon', type: 'image/png', sizes: '96x96', href: '/favicons/favicon-96x96.png' },
-      { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicons/favicon-16x16.png' },
+      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicons/griya.ico' },
+      { rel: 'icon', type: 'image/png', sizes: '96x96', href: '/favicons/griya.ico' },
+      { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicons/griya.ico' },
       { rel: 'manifest', href: '/favicons/manifest.json' },
       // Fonts and Icons
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap' },
