@@ -1,0 +1,212 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee47c560"
+  },
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_3c5d4ada"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_98cabfc4"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee47c560"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee47c560"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5283c067"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee47c560"
+  },
+  {
+    "name": "register___en",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_10642b15"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee47c560"
+  },
+  {
+    "name": "blank-page___ar",
+    "path": "/ar/blank-page",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_3c5d4ada"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_98cabfc4"
+  },
+  {
+    "name": "login___ar",
+    "path": "/ar/login",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5283c067"
+  },
+  {
+    "name": "register___ar",
+    "path": "/ar/register",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_10642b15"
+  },
+  {
+    "name": "blank-page___de",
+    "path": "/de/blank-page",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_3c5d4ada"
+  },
+  {
+    "name": "contact___de",
+    "path": "/de/contact",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_98cabfc4"
+  },
+  {
+    "name": "login___de",
+    "path": "/de/login",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5283c067"
+  },
+  {
+    "name": "register___de",
+    "path": "/de/register",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_10642b15"
+  },
+  {
+    "name": "blank-page___id",
+    "path": "/id/blank-page",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_3c5d4ada"
+  },
+  {
+    "name": "contact___id",
+    "path": "/id/contact",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_98cabfc4"
+  },
+  {
+    "name": "login___id",
+    "path": "/id/login",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5283c067"
+  },
+  {
+    "name": "register___id",
+    "path": "/id/register",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_10642b15"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_3c5d4ada"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_98cabfc4"
+  },
+  {
+    "name": "login___pt",
+    "path": "/pt/login",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5283c067"
+  },
+  {
+    "name": "register___pt",
+    "path": "/pt/register",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_10642b15"
+  },
+  {
+    "name": "blank-page___zh",
+    "path": "/zh/blank-page",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_3c5d4ada"
+  },
+  {
+    "name": "contact___zh",
+    "path": "/zh/contact",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_98cabfc4"
+  },
+  {
+    "name": "login___zh",
+    "path": "/zh/login",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5283c067"
+  },
+  {
+    "name": "register___zh",
+    "path": "/zh/register",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_10642b15"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\suryo\\\\Documents\\\\belajar_nuxt\\\\griyapsikologi-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee47c560"
+  }
+]
